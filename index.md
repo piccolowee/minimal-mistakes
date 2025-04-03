@@ -1,11 +1,11 @@
 ---
 layout: home
-title: 歡迎來到我的網站
-subtitle: 記錄、學習、實驗
+title: 快樂的小兔比
+subtitle: 記錄、學習、嘗試
 ---
 
 👋 嗨，我是 TubiTubi。  
-這是我的數位角落，用來放學習筆記、生活觀察與技術練習。
+兔比兔比
 
 ---
 
