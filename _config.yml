@@ -327,6 +327,7 @@ defaults:
       related: true
 
 
+defaults:
   - scope:
       path: ""
       type: pages
