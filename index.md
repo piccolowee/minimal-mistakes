@@ -4,35 +4,13 @@ title: 快樂的小兔比
 subtitle: 記錄、學習、嘗試
 ---
 
-👋 嗨，我是 TubiTubi。  
-兔比兔比
-
----
-
-## 📌 導覽
-
-- [關於我](about)
-- [文章列表](/posts/)
-- [聯絡我](mailto:youremail@example.com)
-
----
-
-> Powered by [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
-
-
----
-layout: home
-title: 快樂的小兔比
-subtitle: 記錄、學習、嘗試
----
-
 > 🐰「兔比兔比，跳出自己的節奏。」  
 
 ---
 
 ## 🌟 歡迎來到兔比的數位角落
 
-嗨，我是 TubiTubi！這裡記錄著我一路學習技術、觀察生活、練習創作的每一步。如果你也在學習或探索自己，也許我們可以一起交換靈感 ✨
+TubiTubi！這裡記錄著我一路學習技術、觀察生活、練習創作的每一步。 ✨
 
 ---
 
@@ -53,7 +31,7 @@ subtitle: 記錄、學習、嘗試
 
 ## 🎈 小語
 
->「兔比兔比兔比  
-> 跳跳兔比」
+>「兔比兔比兔比
+> 紀錄紀錄紀錄」
 
 ---
