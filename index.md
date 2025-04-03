@@ -13,7 +13,7 @@ subtitle: 記錄、學習、嘗試
 
 - [關於我](about)
 - [文章列表](/posts/)
-- [聯絡我](mailto:youremail@example.com)
+- [聯絡我](mailto:weiya0205@gmail.com)
 
 ---
 
