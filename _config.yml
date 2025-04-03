@@ -325,3 +325,10 @@ defaults:
       comments: # true
       share: true
       related: true
+defaults:
+  # 讓 index.md 使用正確 layout 顯示內容
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: home
